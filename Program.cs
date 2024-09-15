@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleApp1231
 {
@@ -8,7 +8,7 @@ namespace ConsoleApp1231
     {
         static void Main()
         {
-            
+            Console.WriteLine("Hello");
             Console.ReadKey();
         }
     }
