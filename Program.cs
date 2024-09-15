@@ -8,6 +8,8 @@ namespace ConsoleApp1231
     {
         static void Main()
         {
+
+            Console.Write("");
             Console.WriteLine("Hello");
             Console.ReadKey();
         }
